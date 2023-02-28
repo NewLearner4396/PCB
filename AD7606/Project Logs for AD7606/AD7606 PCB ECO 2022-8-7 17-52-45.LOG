@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VIN Pin=FB1-2
+Removed Pin From Net: NetName=plug_IN Pin=S1-1
+Removed Pin From Net: NetName=IN Pin=S1-2
+Removed Pin From Net: NetName=USB_IN Pin=S1-3
+Removed Pin From Net: NetName=+5V Pin=V2-4
+Removed Pin From Net: NetName=+3V3 Pin=V3-4
+Added Component: Designator=JP4(HDR2.54-LI-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(HDR2.54-LI-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=JP4-1
+Added Pin To Net: NetName=+5V Pin=JP4-3
+Added Pin To Net: NetName=plug_IN Pin=JP5-1
+Added Pin To Net: NetName=IN Pin=JP5-2
+Change Net Name : Old Net Name=VIN New Net Name=7V
+Added Pin To Net: NetName=VIN Pin=FB1-2
+Added Pin To Net: NetName=VIN Pin=JP4-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=AD7606 Member=Component JP4 HDR-1X3
+Added Member To Class: ClassName=AD7606 Member=Component JP5 HDR-1X3

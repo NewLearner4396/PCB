@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\电路设计\AD\PCB_Project\Copy of STM32F103-V1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=copy of stm32f103-v1.0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=copy of stm32f103-v1.0-slotholes.txt|DrillLayers=gtl,gbl

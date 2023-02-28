@@ -1,0 +1,5 @@
+Added Component: Designator=R30(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR11_1 Pin=R30-1
+Added Pin To Net: NetName=NetR22_2 Pin=R30-2
+Added Member To Class: ClassName=Sheet Member=Component R30 R

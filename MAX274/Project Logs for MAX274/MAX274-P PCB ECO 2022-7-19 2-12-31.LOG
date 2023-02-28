@@ -1,0 +1,52 @@
+Added Component: Designator=Jump1(Jump)
+Added Component: Designator=Jump2(Jump)
+Added Component: Designator=Jump3(Jump)
+Added Component: Designator=Jump4(Jump)
+Added Component: Designator=Jump5(Jump)
+Added Component: Designator=Jump6(Jump)
+Added Component: Designator=Jump7(Jump)
+Added Component: Designator=Jump8(Jump)
+Added Component: Designator=Jump9(Jump)
+Added Component: Designator=Jump10(Jump)
+Added Component: Designator=Jump11(Jump)
+Added Component: Designator=Jump12(Jump)
+Added Component: Designator=Jump13(Jump)
+Added Pin To Net: NetName=LPOA Pin=Jump1-1
+Added Pin To Net: NetName=NetJump1_2 Pin=Jump1-2
+Added Pin To Net: NetName=BPOA Pin=Jump2-1
+Added Pin To Net: NetName=NetJump1_2 Pin=Jump2-2
+Added Pin To Net: NetName=LPOB Pin=Jump3-1
+Added Pin To Net: NetName=NetJump3_2 Pin=Jump3-2
+Added Pin To Net: NetName=BPOB Pin=Jump4-1
+Added Pin To Net: NetName=NetJump3_2 Pin=Jump4-2
+Added Pin To Net: NetName=LPOC Pin=Jump5-1
+Added Pin To Net: NetName=NetJump5_2 Pin=Jump5-2
+Added Pin To Net: NetName=BPOC Pin=Jump6-1
+Added Pin To Net: NetName=NetJump5_2 Pin=Jump6-2
+Added Pin To Net: NetName=LPOD Pin=Jump7-1
+Added Pin To Net: NetName=SignalOUT Pin=Jump7-2
+Added Pin To Net: NetName=BPOD Pin=Jump8-1
+Added Pin To Net: NetName=SignalOUT Pin=Jump8-2
+Added Pin To Net: NetName=VEE Pin=Jump9-1
+Added Pin To Net: NetName=V- Pin=Jump9-2
+Added Pin To Net: NetName=VCC Pin=Jump10-1
+Added Pin To Net: NetName=V+ Pin=Jump10-2
+Added Pin To Net: NetName=FC Pin=Jump11-1
+Added Pin To Net: NetName=V+ Pin=Jump11-2
+Added Pin To Net: NetName=FC Pin=Jump12-1
+Added Pin To Net: NetName=GND Pin=Jump12-2
+Added Pin To Net: NetName=FC Pin=Jump13-1
+Added Pin To Net: NetName=V+ Pin=Jump13-2
+Added Member To Class: ClassName=MAX274-S Member=Component Jump1 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump2 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump3 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump4 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump5 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump6 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump7 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump8 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump9 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump10 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump11 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump12 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump13 JumpPad

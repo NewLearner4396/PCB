@@ -1,0 +1,7 @@
+Added Component: Designator=X4(SMA1)
+Added Pin To Net: NetName=NetE2_2 Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Member To Class: ClassName=Sheet1 Member=Component X4 SMA

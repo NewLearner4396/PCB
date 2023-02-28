@@ -1,0 +1,140 @@
+Altium Designer Pick and Place Locations
+F:\电路设计\AD\PCB_Project_1\Project Outputs for PCB_Project_1\Pick Place for Copy of STM32F103-V1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/03/21
+Time:       18:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer       Footprint    Center-X(mil) Center-Y(mil) Rotation Description              Height(mil) 
+N1         AMS1117-3.3V  TopLayer    SOT223       617.047       1285.551      270      ""                       0.000       
+LCD1       TFT32LCD      TopLayer    HEAD16×2     1965.000      1200.000      270      ""                       0.000       
+X2         JX16          TopLayer    SIP16        2860.000      1895.000      90       ""                       0.000       
+Y3         12M           TopLayer    JZ-AX        855.000       485.000       270      Crystal                  0.000       
+B1         BATTERY       TopLayer    CR1220       3510.646      3605.000      360      ""                       0.000       
+Z1         "HEADER 10X2" TopLayer    JTAG         3745.000      1730.000      270      ""                       0.000       
+Y2         32.768K       TopLayer    FC135        1996.929      2574.606      360      Crystal                  0.000       
+Y1         8M            TopLayer    JZ-AX        1565.000      2105.000      270      Crystal                  0.000       
+X8         JX2           TopLayer    WJ128-5.0-2P 265.787       2580.000      0        Connector                0.000       
+X7         JX2           TopLayer    WJ128-5.0-2P 268.425       2110.000      0        Connector                0.000       
+X6         JX3           TopLayer    SIP3         130.000       960.000       90       Connector                0.000       
+X5         JX3           TopLayer    SIP3         255.000       960.000       90       Connector                0.000       
+X4         JX3           TopLayer    SIP3         130.000       1620.000      90       Connector                0.000       
+X3         JX3           TopLayer    SIP3         255.000       1620.000      90       Connector                0.000       
+X1         JX16          TopLayer    SIP16        1085.000      1890.000      90       ""                       0.000       
+V6         S8550         TopLayer    SOT23-C1     2732.598      3833.307      0        V                        0.000       
+V5         S8550         TopLayer    SOT23-C1     1242.598      3493.307      0        V                        0.000       
+V4         S8550         TopLayer    SOT23-C1     1245.000      3831.693      0        V                        0.000       
+V3         S8550         TopLayer    SOT23-C1     2735.000      3486.693      0        V                        0.000       
+V2         S8050         TopLayer    SOT23-C1     3401.693      2695.000      270      V                        0.000       
+V1         S8050         TopLayer    SOT23-C1     580.000       676.693       0        V                        0.000       
+USB2       MicroUSB      TopLayer    MicroUSB1    1089.410      111.850       0        母头                       0.000       
+USB1       MicroUSB      TopLayer    MicroUSB1    466.182       106.850       0        母头                       0.000       
+U10        74HC595       TopLayer    SO-16        2305.000      3091.575      180      串入并出移位寄存器                0.000       
+U9         74HC595       TopLayer    SO-16        1690.000      3096.575      180      串入并出移位寄存器                0.000       
+U8         NRF24L01      TopLayer    NRF24L01     190.000       3490.000      270      ""                       0.000       
+U7         W25Q80BL      TopLayer    W25Q-SO8     775.000       3036.732      90       ""                       0.000       
+U6         AT24C02       TopLayer    SO-8         625.000       3430.000      90       ""                       0.000       
+U5         CAN-PCA82C250 TopLayer    SO-8         590.000       2550.000      90       ""                       0.000       
+U4         SP3485        TopLayer    SO-8         610.000       2070.000      90       ""                       0.000       
+U3         SP3232E       TopLayer    SOIC16       2000.000      758.701       270      SP3232EEN-L/TR;SOIC-39MM 0.000       
+U2         CH340G        TopLayer    SOIC16       470.000       441.299       90       ""                       0.000       
+U1         STM32F103C8T6 TopLayer    LQFP48       1994.842      2079.646      360      ""                       0.000       
+S1         SWITCH-6      TopLayer    SW-AJ        239.645       1291.811      180      ""                       0.000       
+R30        4.7K          TopLayer    R0805        2685.000      3655.000      90       ""                       0.000       
+R29        4.7K          TopLayer    R0805        1185.000      3325.000      90       ""                       0.000       
+R28        4.7K          TopLayer    R0805        1190.000      3665.000      90       ""                       0.000       
+R27        4.7K          TopLayer    R0805        2680.000      3320.000      90       ""                       0.000       
+R26        120           TopLayer    R0805        2790.000      3655.000      90       ""                       0.000       
+R25        120           TopLayer    R0805        1290.000      3325.000      270      ""                       0.000       
+R24        120           TopLayer    R0805        1300.000      3665.000      270      ""                       0.000       
+R23        120           TopLayer    R0805        2790.000      3320.000      270      ""                       0.000       
+R22        10K           BottomLayer R0805        1585.000      2985.000      180      ""                       0.000       
+R21        10K           BottomLayer R0805        2185.000      2990.000      360      ""                       0.000       
+R20        1K            TopLayer    R0805        1255.000      330.000       90       ""                       0.000       
+R19        4.7K          TopLayer    R0805        415.000       3465.000      180      ""                       0.000       
+R18        4.7K          TopLayer    R0805        415.000       3360.000      180      ""                       0.000       
+R17        1K            TopLayer    R0805        840.000       2190.000      360      ""                       0.000       
+R16        1K            TopLayer    R0805        840.000       2295.000      360      ""                       0.000       
+R15        1K            TopLayer    R0805        1389.000      2908.000      180      ""                       0.000       
+R14        1K            TopLayer    R0805        1384.000      2778.000      180      ""                       0.000       
+R13        1K            TopLayer    R0805        1384.000      3158.000      180      ""                       0.000       
+R12        1K            TopLayer    R0805        1384.000      3033.000      180      ""                       0.000       
+R11        10K           TopLayer    R0805        300.000       695.000       90       ""                       0.000       
+R10        4.7K          TopLayer    R0805        420.000       695.000       90       ""                       0.000       
+R9         1K            TopLayer    R0805        545.000       840.000       180      ""                       0.000       
+R8         10K           TopLayer    R0805        570.000       2880.000      0        ""                       0.000       
+R7         4.7K          TopLayer    R0805        3315.000      2840.000      180      ""                       0.000       
+R6         10K           TopLayer    R0805        3275.000      2690.000      90       ""                       0.000       
+R5         10K           TopLayer    R0805        2660.000      995.000       360      ""                       0.000       
+R4         10K           TopLayer    R0805        1375.000      1380.000      360      ""                       0.000       
+R3         10K           TopLayer    R0805        3085.000      2960.000      360      ""                       0.000       
+R2         10K           TopLayer    R0805        2760.000      2960.000      180      ""                       0.000       
+R1         10K           TopLayer    R0805        3100.000      2515.000      270      ""                       0.000       
+Q1         LED-4-YANG-36 TopLayer    LED0.36-4    2000.000      3570.000      180      ""                       0.000       
+KEY4       SW-66B7       TopLayer    SW-66        3685.000      895.000       0        ""                       0.000       
+KEY3       SW-66B7       TopLayer    SW-66        3280.000      890.000       0        ""                       0.000       
+KEY2       SW-66B7       TopLayer    SW-66        3280.000      540.000       0        ""                       0.000       
+KEY1       SW-66B7       TopLayer    SW-66        3690.000      530.000       0        ""                       0.000       
+JP21       JX3           TopLayer    SIP3         2305.000      2855.000      360      Connector                0.000       
+JP20       JX3           TopLayer    SIP3         1700.000      2855.000      360      Connector                0.000       
+JP19       JX2           TopLayer    SIP2         2985.000      2165.000      270      Connector                0.000       
+JP18       JX2           TopLayer    SIP2         1075.000      295.000       360      Connector                0.000       
+JP17       JX4           TopLayer    SIP4         140.000       3040.000      270      Connector                0.000       
+JP16       JX4           TopLayer    SIP4         955.000       2990.000      90       Connector                0.000       
+JP15       JX2           TopLayer    SIP2         3330.000      2955.000      180      Connector                0.000       
+JP14       JX4           TopLayer    SIP4         280.000       3040.000      90       Connector                0.000       
+JP13       JX4           TopLayer    SIP4         410.000       3040.000      90       Connector                0.000       
+JP12       JX2           TopLayer    SIP2         2990.000      1390.000      90       Connector                0.000       
+JP11       JX2           TopLayer    SIP2         815.000       3480.000      270      Connector                0.000       
+JP10       JX2           TopLayer    SIP2         891.575       2560.000      90       Connector                0.000       
+JP9        JX2           TopLayer    SIP2         3115.000      2155.000      90       Connector                0.000       
+JP8        JX3           TopLayer    SIP3         891.575       1970.000      90       Connector                0.000       
+JP7        JX3           TopLayer    SIP3         2925.000      2775.000      360      Connector                0.000       
+JP6        JX2           TopLayer    SIP2         1695.000      750.000       90       Connector                0.000       
+JP5        JX2           TopLayer    SIP2         1745.000      1755.000      90       Connector                0.000       
+JP4        JX4           TopLayer    SIP4         2985.000      2495.000      90       Connector                0.000       
+JP3        JX4           TopLayer    SIP4         130.000       420.000       90       Connector                0.000       
+JP2        JX3           TopLayer    SIP3         3110.000      3085.000      180      Connector                0.000       
+JP1        JX3           TopLayer    SIP3         2765.000      3080.000      180      Connector                0.000       
+H5         发光二极管         TopLayer    LED1206      1157.500      2915.000      180      ""                       0.000       
+H4         发光二极管         TopLayer    LED1206      1157.500      2784.000      180      ""                       0.000       
+H3         发光二极管         TopLayer    LED1206      1157.500      3165.000      180      ""                       0.000       
+H2         发光二极管         TopLayer    LED1206      1152.500      3040.000      180      ""                       0.000       
+H1         发光二极管         TopLayer    LED1206      380.000       942.500       90       ""                       0.000       
+DB1        DB9M          TopLayer    DB9-M        1999.583      449.167       180      母头                       0.000       
+D2         1N5819        BottomLayer 1N4148-T     3050.000      3480.000      180      "Diode 1N series"        0.000       
+D1         1N5819        BottomLayer 1N4148-T     3051.008      3615.000      180      "Diode 1N series"        0.000       
+C28        100nF         BottomLayer C0805        1825.000      2990.000      180      Capacitor                0.000       
+C27        100nF         BottomLayer C0805        2420.000      2993.150      180      Capacitor                0.000       
+C26        100nF         TopLayer    C0805        570.000       3170.000      0        Capacitor                0.000       
+C25        100nF         BottomLayer C0805        1865.000      2015.000      360      Capacitor                0.000       
+C24        100nF         BottomLayer C0805        2105.000      2155.000      180      Capacitor                0.000       
+C23        100nF         BottomLayer C0805        2070.000      1965.000      90       Capacitor                0.000       
+C22        100nF         BottomLayer C0805        1925.000      2190.000      270      Capacitor                0.000       
+C21        100nF         TopLayer    C0805        415.000       3565.000      0        Capacitor                0.000       
+C20        100nF         BottomLayer C0805        565.000       2675.000      360      Capacitor                0.000       
+C19        100nF         BottomLayer C0805        605.000       2190.000      360      Capacitor                0.000       
+C18        100nF         BottomLayer C0805        2125.000      870.000       360      Capacitor                0.000       
+C17        100nF         BottomLayer C0805        1955.000      870.000       360      Capacitor                0.000       
+C16        100nF         TopLayer    C0805        2440.000      640.000       360      Capacitor                0.000       
+C15        100nF         TopLayer    C0805        1955.000      995.000       360      Capacitor                0.000       
+C14        100nF         TopLayer    C0805        2130.000      995.000       0        Capacitor                0.000       
+C13        100nF         BottomLayer C0805        350.000       550.000       180      Capacitor                0.000       
+C12        100nF         BottomLayer C0805        640.000       1570.000      180      Capacitor                0.000       
+C11        100uF         TopLayer    CAP5*5_4     631.418       1565.000      180      ""                       0.000       
+C10        100nF         BottomLayer C0805        595.000       1010.000      360      Capacitor                0.000       
+C9         100uF         TopLayer    CAP5*5_4     608.582       1010.000      0        ""                       0.000       
+C8         100nF         BottomLayer C0805        3000.000      3360.000      180      Capacitor                0.000       
+C7         22pF          TopLayer    C0805        715.000       330.000       90       Capacitor                0.000       
+C6         22pF          TopLayer    C0805        715.000       510.000       270      Capacitor                0.000       
+C5         22pF          TopLayer    C0805        1725.000      2195.000      90       Capacitor                0.000       
+C4         22pF          TopLayer    C0805        1725.000      2015.000      270      Capacitor                0.000       
+C3         15pF          TopLayer    C0805        1895.000      2450.000      0        Capacitor                0.000       
+C2         15pF          TopLayer    C0805        2080.000      2470.000      360      Capacitor                0.000       
+C1         100nF         TopLayer    C0805        3200.000      2515.000      90       Capacitor                0.000       
+BEEP1      BEEP          TopLayer    SOT12-7.6    3715.000      2879.606      270      ""                       0.000       

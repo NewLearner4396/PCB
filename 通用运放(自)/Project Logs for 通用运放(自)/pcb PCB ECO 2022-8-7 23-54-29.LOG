@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR8_1 Pin=R18-1
+Removed Pin From Net: NetName=NetR18_2 Pin=R18-2
+Removed Member From Class: ClassName=Sheet Member=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R18
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR18_2

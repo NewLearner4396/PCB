@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=plug_IN Pin=VCC-3
+Added Pin To Net: NetName=plug_IN Pin=VCC-1

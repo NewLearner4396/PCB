@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+5 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VREF Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VREF Pin=C10-2
+Removed Pin From Net: NetName=NetC11_1 Pin=C11-1
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Removed Pin From Net: NetName=VCC Pin=R25-1
+Removed Pin From Net: NetName=+5 Pin=R25-2
+Removed Pin From Net: NetName=NetC11_1 Pin=R27-1
+Removed Pin From Net: NetName=VCC Pin=R27-2
+Removed Pin From Net: NetName=NetC11_1 Pin=R28-1
+Removed Pin From Net: NetName=+5 Pin=R28-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R29-1
+Removed Pin From Net: NetName=VEE Pin=R29-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R30-1
+Removed Pin From Net: NetName=-5 Pin=R30-2
+Removed Pin From Net: NetName=VREF Pin=R32-2
+Removed Pin From Net: NetName=+5 Pin=R33-1
+Removed Pin From Net: NetName=VREF Pin=R33-2
+Removed Pin From Net: NetName=NetC12_2 Pin=U0-4
+Removed Pin From Net: NetName=NetC11_1 Pin=U0-7
+Removed Pin From Net: NetName=VCC Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+5 Pin=U1-3
+Removed Pin From Net: NetName=+5 Pin=U2-1
+Removed Pin From Net: NetName=VREF Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Member From Class: ClassName=Sheet Member=C13
+Removed Member From Class: ClassName=Sheet Member=C14
+Removed Member From Class: ClassName=Sheet Member=C15
+Removed Member From Class: ClassName=Sheet Member=C16
+Removed Member From Class: ClassName=Sheet Member=R30
+Removed Member From Class: ClassName=Sheet Member=R33
+Removed Member From Class: ClassName=Sheet Member=R34
+Removed Member From Class: ClassName=Sheet Member=R35
+Removed Member From Class: ClassName=Sheet Member=U2
+Removed Member From Class: ClassName=Sheet Member=U3
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C10
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C13 NewDesignator=C1
+Change Component Designator: OldDesignator=C14 NewDesignator=C2
+Change Component Designator: OldDesignator=C15 NewDesignator=C6
+Change Component Designator: OldDesignator=C16 NewDesignator=C7
+Change Component Designator: OldDesignator=GND NewDesignator=JP3
+Change Component Designator: OldDesignator=GND NewDesignator=JP6
+Change Component Designator: OldDesignator=R5 NewDesignator=R27
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R22
+Change Component Designator: OldDesignator=R8 NewDesignator=R15
+Change Component Designator: OldDesignator=R9 NewDesignator=R25
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R23
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R26
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R24
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R28
+Change Component Designator: OldDesignator=R18 NewDesignator=R9
+Change Component Designator: OldDesignator=R19 NewDesignator=R29
+Change Component Designator: OldDesignator=R20 NewDesignator=R8
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R17
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R26 NewDesignator=R14
+Change Component Designator: OldDesignator=R32 NewDesignator=R4
+Change Component Designator: OldDesignator=R33 NewDesignator=R5
+Change Component Designator: OldDesignator=R34 NewDesignator=R7
+Change Component Designator: OldDesignator=R35 NewDesignator=R19
+Change Component Designator: OldDesignator=S+ NewDesignator=JP5
+Change Component Designator: OldDesignator=S- NewDesignator=JP4
+Change Component Designator: OldDesignator=U0 NewDesignator=U2
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=Vin+ NewDesignator=Vin+1
+Change Component Designator: OldDesignator=Vin- NewDesignator=Vin-1
+Change Component Designator: OldDesignator=Vout NewDesignator=Vout1
+Added Component: Designator=R1(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603-L)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=V1(SOT223_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=NetC12_2 Pin=R1-2
+Added Pin To Net: NetName=VEE Pin=R2-1
+Added Pin To Net: NetName=NetC11_1 Pin=R2-2
+Added Pin To Net: NetName=-5 Pin=R3-1
+Added Pin To Net: NetName=NetC11_1 Pin=R3-2
+Added Pin To Net: NetName=NetC12_2 Pin=R4-2
+Added Pin To Net: NetName=VREF Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR12_2 Pin=R18-1
+Added Pin To Net: NetName=NetR11_2 Pin=R18-2
+Added Pin To Net: NetName=NetC11_1 Pin=U2-4
+Added Pin To Net: NetName=NetC12_2 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=V1-1
+Added Pin To Net: NetName=VCC Pin=V1-3
+Change Net Name : Old Net Name=NetC11_1 New Net Name=V-
+Change Net Name : Old Net Name=NetC12_2 New Net Name=V+
+Change Net Name : Old Net Name=NetJP3_1 New Net Name=NetJP5_1
+Change Net Name : Old Net Name=NetJP5_1 New Net Name=NetJP4_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR19_2
+Added Member To Class: ClassName=Sheet Member=Component JP3 HDR-1X2
+Added Member To Class: ClassName=Sheet Member=Component R1 R
+Added Member To Class: ClassName=Sheet Member=Component R2 R
+Added Member To Class: ClassName=Sheet Member=Component R3 R
+Added Member To Class: ClassName=Sheet Member=Component R24 R
+Added Member To Class: ClassName=Sheet Member=Component V1 AMS1117-3V3

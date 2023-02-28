@@ -1,0 +1,213 @@
+Change Component Comment : Designator=R? Old Comment=1K New Comment=NC
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=V? NewDesignator=V1
+Change Component Designator: OldDesignator=V? NewDesignator=V2
+Added Component: Designator=JP?(SMA-KE)
+Add component (AddParameter): Name = "BOM名称"; Value = "SMA-2.4G射频天线接口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(SMA-KE)
+Add component (AddParameter): Name = "BOM名称"; Value = "SMA-2.4G射频天线接口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=Jump?(Jump)
+Added Component: Designator=R12(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Added Pin To Net: NetName=BPIA Pin=R12-2
+Added Pin To Net: NetName=BPIA Pin=U1-3
+Added Net: Name=BPIA
+Added Pin To Net: NetName=BPIB Pin=R?-2
+Added Pin To Net: NetName=BPIB Pin=U1-12
+Added Net: Name=BPIB
+Added Pin To Net: NetName=BPIC Pin=R?-2
+Added Pin To Net: NetName=BPIC Pin=U1-17
+Added Net: Name=BPIC
+Added Pin To Net: NetName=BPID Pin=R?-2
+Added Pin To Net: NetName=BPID Pin=U1-26
+Added Net: Name=BPID
+Added Pin To Net: NetName=BPOA Pin=Jump?-1
+Added Pin To Net: NetName=BPOA Pin=R13-1
+Added Pin To Net: NetName=BPOA Pin=R14-2
+Added Pin To Net: NetName=BPOA Pin=U1-5
+Added Net: Name=BPOA
+Added Pin To Net: NetName=BPOB Pin=Jump?-1
+Added Pin To Net: NetName=BPOB Pin=R?-1
+Added Pin To Net: NetName=BPOB Pin=R?-2
+Added Pin To Net: NetName=BPOB Pin=U1-10
+Added Net: Name=BPOB
+Added Pin To Net: NetName=BPOC Pin=Jump?-1
+Added Pin To Net: NetName=BPOC Pin=R?-1
+Added Pin To Net: NetName=BPOC Pin=R?-2
+Added Pin To Net: NetName=BPOC Pin=U1-19
+Added Net: Name=BPOC
+Added Pin To Net: NetName=BPOD Pin=Jump?-1
+Added Pin To Net: NetName=BPOD Pin=R?-1
+Added Pin To Net: NetName=BPOD Pin=R?-2
+Added Pin To Net: NetName=BPOD Pin=U1-24
+Added Net: Name=BPOD
+Added Pin To Net: NetName=FC Pin=U1-9
+Added Net: Name=FC
+Added Pin To Net: NetName=INA Pin=R11-2
+Added Pin To Net: NetName=INA Pin=R13-2
+Added Pin To Net: NetName=INA Pin=U1-2
+Added Net: Name=INA
+Added Pin To Net: NetName=INB Pin=R?-2
+Added Pin To Net: NetName=INB Pin=R?-2
+Added Pin To Net: NetName=INB Pin=U1-13
+Added Net: Name=INB
+Added Pin To Net: NetName=INC Pin=R?-2
+Added Pin To Net: NetName=INC Pin=R?-2
+Added Net: Name=INC
+Added Pin To Net: NetName=IND Pin=R?-2
+Added Pin To Net: NetName=IND Pin=R?-2
+Added Pin To Net: NetName=IND Pin=U1-27
+Added Net: Name=IND
+Added Pin To Net: NetName=LPIA Pin=R14-1
+Added Pin To Net: NetName=LPIA Pin=U1-7
+Added Net: Name=LPIA
+Added Pin To Net: NetName=LPIB Pin=R?-1
+Added Pin To Net: NetName=LPIB Pin=U1-8
+Added Net: Name=LPIB
+Added Pin To Net: NetName=LPIC Pin=R?-1
+Added Pin To Net: NetName=LPIC Pin=U1-21
+Added Net: Name=LPIC
+Added Pin To Net: NetName=LPID Pin=R?-1
+Added Pin To Net: NetName=LPID Pin=U1-22
+Added Net: Name=LPID
+Added Pin To Net: NetName=LPOA Pin=Jump?-1
+Added Pin To Net: NetName=LPOA Pin=R12-1
+Added Pin To Net: NetName=LPOA Pin=U1-1
+Added Net: Name=LPOA
+Added Pin To Net: NetName=LPOB Pin=Jump?-1
+Added Pin To Net: NetName=LPOB Pin=R?-1
+Added Pin To Net: NetName=LPOB Pin=U1-14
+Added Net: Name=LPOB
+Added Pin To Net: NetName=LPOC Pin=Jump?-1
+Added Pin To Net: NetName=LPOC Pin=R?-1
+Added Pin To Net: NetName=LPOC Pin=U1-15
+Added Net: Name=LPOC
+Added Pin To Net: NetName=LPOD Pin=Jump?-1
+Added Pin To Net: NetName=LPOD Pin=R?-1
+Added Net: Name=LPOD
+Added Pin To Net: NetName=NetJump?_2 Pin=Jump?-2
+Added Pin To Net: NetName=NetJump?_2 Pin=Jump?-2
+Added Pin To Net: NetName=NetJump?_2 Pin=R?-1
+Added Net: Name=NetJump?_2
+Add Net: Net with name "NetJump?_2" already exists
+Add Net: Net with name "NetJump?_2" already exists
+Added Pin To Net: NetName=SignalIN Pin=JP?-1
+Added Pin To Net: NetName=SignalIN Pin=R11-1
+Added Net: Name=SignalIN
+Added Pin To Net: NetName=SignalOUT Pin=JP?-1
+Added Pin To Net: NetName=SignalOUT Pin=Jump?-2
+Added Pin To Net: NetName=SignalOUT Pin=Jump?-2
+Added Net: Name=SignalOUT
+Added Member To Class: ClassName=MAX274-S Member=Component C1 10uF
+Added Member To Class: ClassName=MAX274-S Member=Component C2 100nF
+Added Member To Class: ClassName=MAX274-S Member=Component C4 10uF
+Added Member To Class: ClassName=MAX274-S Member=Component C5 10uF
+Added Member To Class: ClassName=MAX274-S Member=Component C6 100nF
+Added Member To Class: ClassName=MAX274-S Member=Component C7 100nF
+Added Member To Class: ClassName=MAX274-S Member=Component C8 10uF
+Added Member To Class: ClassName=MAX274-S Member=Component JP? SMA WIFI 天线接口
+Added Member To Class: ClassName=MAX274-S Member=Component JP? SMA WIFI 天线接口
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump? JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component R12 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R13 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R14 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component R? NC
+Added Member To Class: ClassName=MAX274-S Member=Component U1 MAX274AEWI+
+Added Member To Class: ClassName=MAX274-S Member=Component V2 79xx

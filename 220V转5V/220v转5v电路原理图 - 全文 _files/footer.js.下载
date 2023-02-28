@@ -1,0 +1,148 @@
+/**
+ * Created by redstart on 2017/11/8.
+ */
+(function(){
+    var beianhaoItem = document.getElementById('elecfans-beianhao');
+    if (beianhaoItem) {
+        beianhaoItem.setAttribute('href', 'http://beian.miit.gov.cn/');
+        beianhaoItem.setAttribute('target', '_blank');
+    }
+
+    var gatherMain = document.getElementById('gatherMain');
+    var footMainText = gatherMain.innerHTML;
+
+    var origin_link = 'http://www.hqchip.com/gongsi/settle.html';
+    var hostname = location.hostname;
+    if (~hostname.search('bbs.elecfans')) {
+        origin_link = 'https://data.hqchip.com:4006/t/Vka';
+    } else if (~hostname.search('www.elecfans')) {
+        origin_link = 'https://data.hqchip.com:4006/t/4ka';
+    }
+
+    var appendFooterMsg = '<ul class="ga-lf wid152" style="width: 140px">' +
+        '      <b>华秋</b>' +
+        '      <li><a target="_blank" href="http://www.elecfans.com/about/" rel="nofollow">关于我们</a></li>' +
+        '      <li><a target="_blank" href="http://www.hqchip.com/help/factsheet.html" rel="nofollow">投资关系</a></li>' +
+        '      <li><a target="_blank" href="http://www.hqchip.com/help/news/lists.html" rel="nofollow">新闻动态</a></li>' +
+        '      <li><a target="_blank" >媒体报道</a></li>' +
+        '      <li><a target="_blank" href="http://www.elecfans.com/about/zhaopin.html" rel="nofollow">加入我们</a></li>' +
+        '      <li><a target="_blank" href="http://www.elecfans.com/about/contact.html" rel="nofollow">联系我们</a></li>' +
+        '      <li><a target="_blank" href="http://www.elecfans.com/about/tousu.html" rel="nofollow">侵权投诉</a></li>' +
+        '      <b class="mt15">社交网络</b>' +
+        '      <li><a target="_blank" href="http://weibo.com/elecfanscom" rel="nofollow">微博</a></li>' +
+        '      <b class="mt15">移动</b>' +
+        '      <li><a target="_blank" href="http://www.elecfans.com/app/">电子发烧友 APP</a></li>' +
+        '      <li><a target="_blank" href="http://m.elecfans.com/">电子发烧友 WAP</a></li>' +
+        '  </ul>' +
+        '  <ul class="ga-lf wid152" style="width: 120px">' +
+        '      <b>联系我们</b>' +
+        '      <p>大中华区广告合作</p>' +
+        '      <p>Ben Tseng</p>' +
+        '      <p><a href="mailto:hezuo@elecfans.com">hezuo@elecfans.com</a></p>' +
+        '      <p>Mike Zhang</p>' +
+        '      <p class="mb16"><a href="mailto:mikezhang@elecfans.com">mikezhang@elecfans.com</a></p>' +
+        '      <p>内容合作</p>' +
+        '      <p>黄晶晶</p>' +
+        '      <p class="mb16"><a href="mailto:huangjingjing@elecfans.com">huangjingjing@elecfans.com</a></p>' +
+        '      <p>内容合作（海外）</p>' +
+        '      <p>Brandon Smith</p>' +
+        '      <p><a href="mailto:brandon.smith@elecfans.com">brandon.smith@elecfans.com</a></p>' +
+        '      <div class="ga-attend">' +
+        '      <p>关注我们的微信</p>' +
+        '      <img src="//skin.elecfans.com/images/u267.png">' +
+        '      </div>' +
+        '  </ul>' +
+        '  <ul class="ga-lf absolute-ga">' +
+        '     <b> </b>' +
+        '      <p>供应链服务 PCB/IC/PCBA</p>' +
+        '      <p>江良华</p>' +
+        '      <p class="mb16"><a href="mailto:lanhu@hqchip.com">lanhu@hqchip.com</a></p>' +
+        '      <p>投资合作</p>' +
+        '      <p>曾海银</p>' +
+        '      <p class="mb16"><a href="mailto:zenghaiyin@elecfans.com">zenghaiyin@elecfans.com</a></p>' +
+        '      <p>原厂入驻：<a style="text-decoration: underline;" href="'+ origin_link +'" target="_blank">点击了解详情</a></p>' +
+        '      <p>杨超群：134 2870 7711</p>' +
+        '      <div class="ga-attend">' +
+        '          <p>下载发烧友APP</p>' +
+        '          <img src="//skin.elecfans.com/images/u40.png">' +
+        '      </div>' +
+        '  </ul>';
+
+
+    var pcbFooter = '<div class="pcb_container">'+
+                            '<div class="hd">'+
+                                '<a href="http://www.huaqiu.cn/" rel="nofollow" target="_blank">'+
+                                    '<img class="pcb-footer-logo pcb-hover-show" src="https://www.hqpcb.com/static/images/footer_logo_w.png" alt="华秋logo">'+
+                                    '<span class="pcb-mini-cut-line"></span>'+
+                                    '<span style="font-size: 12px;">电子产业一站式服务平台</span>'+
+                                '</a>'+
+                            '</div>'+
+                            '<div class="bd">'+
+                                '<div class="clearfix">'+
+                                    '<div class="item">'+
+                                        '<p class="tit" style="margin-top: 5px;">'+
+                                            '<a href="http://www.elecfans.com/" rel="nofollow" target="_blank">'+
+                                                '<img style="width: 88px;height: 33px;" class="pcb-hover-show" src="https://www.hqpcb.com/static/images/footer_fans_w.png" alt="电子发烧友">'+
+                                            '</a></p>'+
+                                            '<a style="margin-top: 6px; padding-top: 2px;" href="http://www.elecfans.com/" rel="nofollow" class="pcb-tit-bottom">电子工程师社区</a>'+
+                                        '</div>'+
+                                        '<div class="item">'+
+                                            '<p class="tit" style="margin-top: 8px;"><a href="https://data.hqchip.com:4006/t/Fca" target="_blank" rel="nofollow">'+
+                                                '<img style="width: 97px;height: 24px;" class="pcb-hover-show" src="https://www.hqpcb.com/static/images/footer_elec_w.png" alt="华秋电路">'+
+                                            '</a></p>'+
+                                            '<a style="margin-top: 9px; padding-top: 2px;font-size:12px;" href="https://data.hqchip.com:4006/t/Fca" class="pcb-tit-bottom" rel="nofollow" target="_blank">1-20层高可靠多层板制造商</a>'+
+                                        '</div>'+
+                                        '<div class="item">'+
+                                            '<p class="tit" style="margin-top: 8px;"><a href="https://data.hqchip.com:4006/t/Xca" target="_blank" rel="nofollow">'+
+                                                '<img style="width: 90px;height: 24px;" class="pcb-hover-show" src="https://www.hqpcb.com/static/images/footer_mall_w.png" alt="华秋商城">'+
+                                            '</a></p>'+
+                                            '<a style="margin-top: 9px; padding-top: 2px;" href="https://data.hqchip.com:4006/t/Xca" class="pcb-tit-bottom" rel="nofollow" target="_blank">一站式电子元器件商城</a>'+
+                                        '</div>'+
+                                        '<div class="item last">'+
+                                            '<p class="tit" style="margin-top: 8px;"><a href="https://data.hqchip.com:4006/t/2ca" target="_blank" rel="nofollow">'+
+                                                '<img style="width: 90px;height: 24px;" class="pcb-hover-show" src="https://www.hqpcb.com/static/images/footer_created_w.png" alt="华秋智造">'+
+                                            '</a></p>'+
+                                            '<a style="margin-top: 9px; padding-top: 2px;" href="https://data.hqchip.com:4006/t/2ca" class="pcb-tit-bottom" rel="nofollow" target="_blank">SMT贴片、PCBA加工</a>'+
+                                        '</div>'+
+                                    '</div>'+
+                                    '<div class="s_link">'+
+                                        '<a target="_blank" style="margin-right: 14px;" href="http://www.huaqiu.cn/about/groupoverview" rel="nofollow">华秋简介</a>'+
+                                        '<a target="_blank" style="margin-right: 24px;" href="http://www.huaqiu.cn/news" rel="nofollow">企业动态</a>'+
+                                        '<a target="_blank" href="http://www.huaqiu.cn/about/contactus" rel="nofollow">联系我们</a>'+
+                                        '<br>'+
+                                        '<a target="_blank" style="margin-right: 14px;" href="http://www.huaqiu.cn/about/corporateculture" rel="nofollow">企业文化</a>'+
+                                        '<a target="_blank" style="margin-right: 14px;" href="http://www.huaqiu.cn/about/promotionalfilm" rel="nofollow">企业宣传片</a>'+
+                                        '<a target="_blank" href="http://www.huaqiu.cn/jobs" rel="nofollow">加入我们</a>'+
+                                    '</div>'+
+                                '</div>'+
+                            '</div>'+
+                        '</div>'
+    footMainText += appendFooterMsg;
+    gatherMain.innerHTML = footMainText;
+    //动态添加营业范围
+    var elecfans_beianhao=document.getElementById("elecfans-beianhao")
+    var a_qualification = document.createElement('a');
+    a_qualification.innerText = '营业范围';
+    a_qualification.href="https://www.elecfans.com/about/qualification.html"
+    a_qualification.target="_blank"
+    a_qualification.style['margin-left']="5px"
+    function insterAfter(newElement,targetElement){
+         var parent = targetElement.parentNode;
+         if(parent.lastChild == targetElement){
+               parent.appendChild(newElement);
+         }
+         else{
+               parent.insertBefore(newElement,targetElement.nextSibling);
+         }
+    }
+    if(elecfans_beianhao){
+        insterAfter(a_qualification,elecfans_beianhao)
+    }
+
+
+    var pcbHtml = document.createElement("div");
+        pcbHtml.className = 'pcb_site_about';
+        pcbHtml.id = 'pcb_site_about';
+        document.body.appendChild(pcbHtml)
+        document.getElementById("pcb_site_about").innerHTML = pcbFooter;
+}())

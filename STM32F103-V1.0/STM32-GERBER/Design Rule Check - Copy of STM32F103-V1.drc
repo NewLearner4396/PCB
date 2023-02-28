@@ -1,0 +1,23 @@
+Protel Design System Design Rule Check
+PCB File : F:\电路设计\AD\PCB_Project\Copy of STM32F103-V1.0.PcbDoc
+Date     : 2021/3/4
+Time     : 23:37:44
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: Top-5V On Top
+   Polygon named: Top-5V 1
+   Polygon named: Top-3V3 3
+   Polygon named: Abstract polygon ID On Top
+   Polygon named: Top-GND 2
+   Polygon named: Top-GND 4
+   Polygon named: Abstract polygon ID On Top
+   Polygon named: Bottom-VBAT
+   Polygon named: Bottom-3V3 1
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

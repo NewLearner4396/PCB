@@ -1,0 +1,14 @@
+Added Component: Designator=JP01(VH3.96-LI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP02(VH3.96-LI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP01-1
+Added Pin To Net: NetName=VEE Pin=JP01-2
+Added Pin To Net: NetName=VCC Pin=JP02-1
+Added Pin To Net: NetName=GND Pin=JP02-2
+Added Member To Class: ClassName=MAX274-S Member=Component JP01 HDR-1X2
+Added Member To Class: ClassName=MAX274-S Member=Component JP02 HDR-1X2

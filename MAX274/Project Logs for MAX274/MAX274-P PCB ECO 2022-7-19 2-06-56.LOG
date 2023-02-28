@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=VEE Pin=Jump*-1
+Removed Pin From Net: NetName=V- Pin=Jump*-2
+Removed Member From Class: ClassName=MAX274-S Member=Jump*
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump1
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump2
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump3
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump4
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump5
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump6
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump7
+Change Component Designator: OldDesignator=Jump? NewDesignator=Jump8
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Added Component: Designator=C9(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=Jump9(Jump)
+Added Component: Designator=Jump10(Jump)
+Added Component: Designator=Jump11(Jump)
+Added Component: Designator=Jump12(Jump)
+Added Component: Designator=Jump13(Jump)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=V- Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=V+ Pin=C10-2
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=VEE Pin=Jump9-1
+Added Pin To Net: NetName=V- Pin=Jump9-2
+Added Pin To Net: NetName=VCC Pin=Jump10-1
+Added Pin To Net: NetName=V+ Pin=Jump10-2
+Added Pin To Net: NetName=FC Pin=Jump11-1
+Added Pin To Net: NetName=V+ Pin=Jump11-2
+Added Pin To Net: NetName=FC Pin=Jump12-1
+Added Pin To Net: NetName=GND Pin=Jump12-2
+Added Pin To Net: NetName=FC Pin=Jump13-1
+Added Pin To Net: NetName=V+ Pin=Jump13-2
+Added Pin To Net: NetName=V+ Pin=U1-6
+Added Pin To Net: NetName=INC Pin=U1-16
+Added Pin To Net: NetName=V- Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-23
+Change Net Name : Old Net Name=NetJump?_2 New Net Name=NetJump3_2
+Added Pin To Net: NetName=NetJump1_2 Pin=Jump1-2
+Added Pin To Net: NetName=NetJump1_2 Pin=Jump2-2
+Added Pin To Net: NetName=NetJump1_2 Pin=R21-1
+Added Net: Name=NetJump1_2
+Added Pin To Net: NetName=NetJump5_2 Pin=Jump5-2
+Added Pin To Net: NetName=NetJump5_2 Pin=Jump6-2
+Added Pin To Net: NetName=NetJump5_2 Pin=R41-1
+Added Net: Name=NetJump5_2
+Added Member To Class: ClassName=MAX274-S Member=Component C9 100nF
+Added Member To Class: ClassName=MAX274-S Member=Component C10 100nF
+Added Member To Class: ClassName=MAX274-S Member=Component JP2 SMA WIFI 天线接口
+Added Member To Class: ClassName=MAX274-S Member=Component Jump1 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump2 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump3 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump4 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump5 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump6 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump7 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump9 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump10 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump11 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump12 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump13 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component R21 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R22 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R23 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R24 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R31 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R32 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R33 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R34 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R41 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R42 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R43 NC
+Added Member To Class: ClassName=MAX274-S Member=Component R44 NC

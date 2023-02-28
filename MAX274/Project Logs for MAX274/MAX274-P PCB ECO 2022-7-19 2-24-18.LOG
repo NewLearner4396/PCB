@@ -1,0 +1,8 @@
+Added Component: Designator=Jump6(Jump)
+Added Component: Designator=Jump13(Jump)
+Added Pin To Net: NetName=BPOC Pin=Jump6-1
+Added Pin To Net: NetName=NetJump5_2 Pin=Jump6-2
+Added Pin To Net: NetName=FC Pin=Jump13-1
+Added Pin To Net: NetName=V+ Pin=Jump13-2
+Added Member To Class: ClassName=MAX274-S Member=Component Jump6 JumpPad
+Added Member To Class: ClassName=MAX274-S Member=Component Jump13 JumpPad

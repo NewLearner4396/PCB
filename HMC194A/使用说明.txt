@@ -1,0 +1,5 @@
+A端口控制RF2
+B端口控制RF1
+3.3V~7V为高
+A为高，RFtoRF2
+B为高，RFtoRF1

@@ -1,0 +1,43 @@
+Typical Clock and Center Frequency Limits
+Q        mode     fclk               f0
+1        1        40Hz-4.0MHz        1.0Hz-100kHz
+1        2        40Hz-4.0MHz        1.4Hz-140kHz
+1        3        40Hz-4.0MHz        1.0Hz-100kHz
+1        4        40Hz-4.0MHz        1.0Hz-100kHz
+8        1        40Hz-2.5MHz        1.0Hz-60kHz
+6        2        40Hz-1.4MHz        1.4Hz-50kHz
+8        3        40Hz-1.4MHz        1.0Hz-35kHz
+8        4        40Hz-2.5MHz        1.0Hz-60kHz
+64       1        40Hz-1.5MHz        1.0Hz-37kHz
+90       2        40Hz-0.9MHz        1.4Hz-32kHz
+64       3        40Hz-0.9MHz        1.0Hz-22kHz
+64       4        40Hz-1.5MHz        1.0Hz-37kHz
+
+Note 1: For the MAX260/MAX261, fCLK/f0 = (64 + N) π  / 2 in modes 1, 3, and 4, where N varies from 0 to 63.
+Note 2: For the MAX262, fCLK/f0 = (26 s N) π  / 2 in modes 1, 3, and 4, where N varies 0 to 63.
+Note 3: In mode 2, all fCLK/f0 ratios are divided by  √2. The functions are then:
+MAX260/MAX261 fCLK/f0 = 1.11072 (64 + N), MAX262 fCLK/f0 = 1.11072 (26 + N)
+
+sampling clock is CLK divided by 2.
+
+自带一个放大器用来放大或加偏置。
+
+74HC374缓冲减少逻辑转换造成的噪声。
+
+快速设计步骤在第8页起。
+
+Program Address Locations（地址选择数据位控制内容）在手册15页右上角表四。
+
+16页表五介绍各个模式。
+
+滤波器函数公式在第18页。
+
+输出接一级RC平滑输出。
+
+输入阻抗公式
+RIN = 1 / (CINfCLK / 2) = 2 / (CINfCLK).
+CIN约为12pF，因此，对于500kHz的时钟频率，RIN=333k? . 输入端对地的固定电容约为5pF。
+
+
+
+带通

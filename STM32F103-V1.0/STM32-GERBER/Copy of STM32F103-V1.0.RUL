@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: F:\电路设计\AD\PCB_Project\Copy of STM32F103-V1.0.PcbDoc
+RuleKind=Width|RuleName=PWR|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=via-poly|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=poly|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=all|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
